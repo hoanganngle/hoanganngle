@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoanganngle
 - 👀 I’m interested in coding and testing things
-- 🌱 I’m currently learning java, c#, css, JavaScript and Jmeter
+- 🌱 I’m currently learning C Java, C#, CSS, JavaScript and Jmeter
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me https://www.linkedin.com/in/hoang-an-watching-bugs/
 
