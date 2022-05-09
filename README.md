@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoanganngle
-- 👀 I’m interested in coding and testing things that I'm not supposed to mess with
-- 🌱 I’m currently learning java, c#, a little bit of python
-- 💞️ I’m not looking to collaborate 
+- 👀 I’m interested in coding and testing things
+- 🌱 I’m currently learning java, c#, css, JavaScript and Jmeter
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me https://www.linkedin.com/in/hoang-an-watching-bugs/
 
 <!---
